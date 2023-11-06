@@ -6,7 +6,7 @@ This exploratory data analysis seeks to make recommendations to my clients on th
 Null: Renovation = 0 impact on selling price. 
 Alternate: Renovation has an impact on selling price.
 ## Methodology
-The use of bar plots, line plot and geographical plot will be used to prove of disprove the null hypothesis.
+The use of bar plots, line plot and geographical plot will be used to prove or disprove the null hypothesis. Robustness checks including other rooms to see if result holds.
 
 ## Summary
 Our finding shows, we have to reject our null hypothesis which says renovation would have no impact on selling price and accept the alternate hypothesis.
