@@ -16,7 +16,6 @@ Accounting for factors including waterfront and grade, result largely holds true
 This finding holds for other houses not in clients portfolio( 2,4,5).
 Positive association noticed does not imply causality.
 
-
 ## Recommendations
 In most cases, apartment will likely lead to a big return but it will be important to consider the cost of renovation.
 For apartments that fall under  grade 3, renovating before sale would be the better outcome .
