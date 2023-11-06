@@ -1,28 +1,28 @@
 Exploratory Data Analysis
 ## Description
-This exploratory data analysis seeks to make recommendations to my clients on the best time to list his apartments for sale, and advise of renovation decisions 
+This exploratory data analysis seeks to make recommendations to my clients on the best time to list his apartments for sale, and advise of renovation decisions .
 - House sales in King County 2014 - 2015
 ## Hypothesis
-Null: Renovation = 0 impact on selling price 
-Alternate: Renovation not equals 0 impact on selling price
+Null: Renovation = 0 impact on selling price. 
+Alternate: Renovation has an impact on selling price.
 ## Methodology
 The use of bar plots, line plot and geographical plot will be used to prove of disprove the null hypothesis.
 
 ## Summary
 Our finding shows, we have to reject our null hypothesis which says renovation would have no impact on selling price and accept the alternate hypothesis.
 There is a positive relationship between renovation and selling price. 
-Renovated apartments are likely to sell at a higher price on average when compared to non renovated apartments
+Renovated apartments are likely to sell at a higher price on average when compared to non renovated apartments.
 Accounting for factors including waterfront and grade, result largely holds true
-This finding holds for other houses not in clients portfolio( 2,4,5)
-Positive association noticed does not imply causality
+This finding holds for other houses not in clients portfolio( 2,4,5).
+Positive association noticed does not imply causality.
 
 
 ## Recommendations
 In most cases, apartment will likely lead to a big return but it will be important to consider the cost of renovation.
-For apartments that fall under  grade 3, renovating before sale would be the better outcome 
-For apartments in grade 2, if cost of renovation below X, proceed with renovation
+For apartments that fall under  grade 3, renovating before sale would be the better outcome .
+For apartments in grade 2, if cost of renovation below X, proceed with renovation.
 For apartments in grade 1, do not renovate. 
-After renovating, the apartment should be sold in December, best period to maximise earning potential
+After renovating, the apartment should be sold in December, best period to maximise earning potential.
 
 
 # Setup
